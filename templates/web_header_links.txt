@@ -54,7 +54,7 @@ a#logo .titlefont {
 </style>
 
 
-<h1><a id="logo" href="./"><span class="titlefont">PogoMaps</span><img class='rocket icon' src='static/images/rocket.png'></a></h1>
+<h1><a id="logo" href="./"><span class="titlefont">PoGoMaps</span><img class='rocket icon' src='static/images/rocket.png'></a></h1>
 <h1>&nbsp;
         
           
