@@ -22,17 +22,11 @@ Live visualization of all the Pok√©mon (with option to show gyms, raids and Pok√
 ## Information
 * [Discord](https://discord.gg/XjUjzmD) for support
 * [Documentation](https://rocketmap.readthedocs.io/) for installation and usage docs
-* [vote.devkat.org](http://vote.devkat.org) to request new features
 * [Github Issues](https://github.com/KetchumMaps/KetchumMaps/issues) for reporting bugs (not for support!)
 
 ## Installation
 
 For instructions on how to setup and run the tool, please refer to the project [documentation](https://rocketmap.readthedocs.io).
-
-## Deployment
-
-**Please note, deployments are not supported officially. You are using these deployment links at your own risk.**
-[![Deploy](https://raw.githubusercontent.com/RocketMap/PokemonGo-Map-in-Cloud/master/images/deploy-to-jelastic.png)](https://jelastic.com/install-application/?manifest=https://raw.githubusercontent.com/RocketMap/PokemonGo-Map-in-Cloud/master/manifest.jps) [![Deploy on Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy?source=https://github.com/RocketMap/RocketMap#develop)
 
 ## Contributions
 
@@ -40,5 +34,5 @@ Please submit all pull requests to [PoGoMaps](https://github.com/KetchumMaps/PoG
 
 Building off [RocketMap](https://github.com/RocketMap/RocketMap).
 
-Discord and front-end use [Iconset](http://www.flaticon.com/packs/packs/pokemon-go/) by [Roundicons Freebies](http://www.flaticon.com/authors/roundicons-freebies/) and [icon](http://www.flaticon.com/free-icon/rocket_178158) by [Flat Icons](http://flat-icons.com/) from [www.flaticon.com](http://www.flaticon.com/). License: CC 3.0 BY can be found [here](http://creativecommons.org/licenses/by/3.0/).
+Discord and front-end use [Iconset](http://www.flaticon.com/packs/packs/pokemon-go/) by [Roundicons Freebies](http://www.flaticon.com/authors/roundicons-freebies/) and [icon](http://www.flaticon.com/free-icon/rocket_178158) by [Flat Icons](http://flat-icons.com/) from [www.flaticon.com](http://www.flaticon.com/). Filters by [Tomballer](https://github.com/tomballgithub/RocketMap) License: CC 3.0 BY can be found [here](http://creativecommons.org/licenses/by/3.0/).
 
